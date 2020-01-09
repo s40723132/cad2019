@@ -60,9 +60,11 @@
 <t tx="leo.20180902120523.10">##  網際內容管理
 
 ### Cad2019
-
-Created by s40723132
-
+ 
+ Created by s40723132
+ 
+倉儲:https://github.com/s40723132/cad2019
+分組倉儲:https://github.com/s40723145/cad2019ag2
 
 
 
@@ -347,7 +349,7 @@ vertical: body pane on the botton</t>
 
 ### Cad2019
 
- Solvespace 繪圖練習
+ Solidworks 繪圖練習
  
  https://www.youtube.com/watch?v=RrWQkUmprDc
 
@@ -365,6 +367,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200109200802.2">##  網際內容管理
 
 ### Cad2019
+
+NX12繪圖練習
 
 https://www.youtube.com/watch?v=Xuw2iyEzRIE
 
@@ -398,6 +402,8 @@ https://www.youtube.com/watch?v=QU7aW1F0GFM&amp;feature=youtu.be</t>
 <t tx="leo.20200109200820.2">##  網際內容管理
 
 ### Cad2019
+
+s40723132課程學習心得
 
 這學期的課程也是延續之前學過的東西，在課程中加入了許多繪圖軟體的應用:NX12.solidworks.inventor，這些學設計的都需要悉，不過我在對程式這塊了解不太深，所以經常把自己的網頁用到爆掉，不過這也是經驗，在面對之後的課程，希望我能遇到困難能夠堅持下去。
     </t>
